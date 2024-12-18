@@ -1,0 +1,7 @@
+# Excluir el entorno virtual
+env/
+
+# Excluir archivos de contraseñas o configuraciones sensibles
+config.py
+secrets.env
+.env
